@@ -1,0 +1,30 @@
+.flex-container{
+    display:inline-flex;
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: bold;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    height: 60px;
+    width: 100%;
+    padding: 10px;
+    border: 1px;
+    border-bottom-style: solid;
+    border-color: black;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.logo{
+    color: aquamarine;
+    display:inline-flex;
+    align-items: center;
+    f
+}
+
+.options li {
+    display: inline-flex;
+    text-decoration: none;
+    color: black;
+}
